@@ -8,5 +8,3 @@
 8. Don't miss out on the opportunity to explore the exciting possibilities of AI and journalism with "AI for Journalism" - the ultimate resource for the modern news writer. #excitingpossibilities #newsindustry
 9. "AI for Journalism" offers a unique perspective on the ways that AI is changing the news industry, and how you can leverage its power to stay ahead of the competition. #stayahead #competition
 10. Whether you're a freelance writer or working for a major news outlet, "AI for Journalism" is an essential resource for anyone looking to take their writing and reporting skills to the next level with technology. #writingandreporting #technology
-
-
