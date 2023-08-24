@@ -1,4 +1,3 @@
-# AI-Powered Language Generation and Editing
 
 Artificial Intelligence (AI) can assist journalists in various ways, including language generation and editing. In this chapter, we will explore how AI-powered tools can enhance news writing and editing.
 

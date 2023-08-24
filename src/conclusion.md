@@ -1,4 +1,3 @@
-# Conclusion
 
 As we come to the end of this book, it is important to recap the key takeaways from our discussion of AI-driven journalism. We have explored the many ways in which AI is transforming journalism and enhancing reporting practices.
 

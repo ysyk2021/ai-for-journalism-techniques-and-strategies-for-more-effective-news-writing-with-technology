@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Journalism
-==========================================================
 
 AI can provide powerful tools and technologies for journalists looking to enhance their reporting practices. In this chapter, we will provide an overview of available tools and technologies, as well as strategies for selecting the right tools for your needs.
 

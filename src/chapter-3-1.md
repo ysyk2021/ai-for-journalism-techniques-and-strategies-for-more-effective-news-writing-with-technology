@@ -1,4 +1,3 @@
-# Using AI for Automated Data Collection and Analysis
 
 In journalism, gathering and analyzing data is a crucial part of the reporting process. Artificial Intelligence (AI) can help streamline this process by automating data collection and analysis. In this chapter, we will explore how journalists can implement AI in news gathering and research to enhance their reporting capabilities.
 

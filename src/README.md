@@ -1,4 +1,3 @@
-# Introduction
 
 The world of journalism is changing, and the rise of Artificial Intelligence (AI) is playing a significant role in that transformation. From automated fact-checking to personalized content creation, AI is increasingly being used in newsrooms around the world to improve the speed, accuracy, and effectiveness of news writing.
 

@@ -1,5 +1,3 @@
-Chapter 7: Future Trends and Opportunities for AI-Driven Journalism
-===================================================================
 
 As the field of AI for journalism continues to evolve, new trends and opportunities are emerging all the time. In this chapter, we will discuss some of the emerging trends in AI for news writing and reporting and how they can unlock new opportunities for journalism.
 

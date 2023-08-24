@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in News Gathering and Research
-=========================================================
 
 AI can be used to enhance news gathering and research by providing tools for automated data collection and analysis, as well as predictive analytics and forecasting. In this chapter, we will discuss these strategies for implementing AI in news gathering and research.
 

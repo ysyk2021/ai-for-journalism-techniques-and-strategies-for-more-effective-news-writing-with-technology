@@ -1,4 +1,3 @@
-# Mitigating Risks and Ensuring Compliance
 
 As AI becomes more integrated into the world of journalism, managing ethics and bias is becoming increasingly important. In this chapter, we will discuss some key considerations for mitigating risks and ensuring compliance when using AI in journalism.
 

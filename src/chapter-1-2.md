@@ -1,4 +1,3 @@
-# Benefits of Incorporating AI into Journalism
 
 Artificial Intelligence (AI) is transforming the way journalists work, from simplifying fact-checking to providing personalized news experiences. In this chapter, we will discuss the benefits of incorporating AI into journalism.
 

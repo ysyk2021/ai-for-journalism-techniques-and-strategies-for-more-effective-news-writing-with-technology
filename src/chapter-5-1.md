@@ -1,4 +1,3 @@
-# Automated Content Curation and Personalization using AI
 
 AI-powered tools can assist news organizations in distributing their content more effectively and engaging with audiences on a personalized level. In this chapter, we will explore how AI can be used for automated content curation and personalization to improve distribution and engagement.
 

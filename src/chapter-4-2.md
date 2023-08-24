@@ -1,4 +1,3 @@
-# Real-Time Fact-Checking and Verification
 
 Misinformation and fake news are significant challenges facing journalists, but AI-powered tools can help combat this problem. In this chapter, we will explore how AI can be used for real-time fact-checking and verification in news writing.
 

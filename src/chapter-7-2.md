@@ -1,4 +1,3 @@
-# Unlocking New Opportunities with AI
 
 As AI continues to evolve, it is opening up new opportunities for journalism. In this chapter, we will explore some of the ways that AI can unlock new opportunities for news writing and reporting.
 

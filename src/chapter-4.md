@@ -1,5 +1,3 @@
-Chapter 4: Enhancing News Writing with AI
-=========================================
 
 AI can enhance news writing by providing tools for language generation and editing, as well as real-time fact-checking and verification. By incorporating these technologies into their writing practices, journalists can improve the efficiency and accuracy of their reporting.
 

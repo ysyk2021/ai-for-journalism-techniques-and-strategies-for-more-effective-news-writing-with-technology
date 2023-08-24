@@ -1,4 +1,3 @@
-# Overview of Available Tools and Technologies
 
 As AI becomes more integrated into the world of journalism, a wide range of tools and technologies have emerged to support AI-driven journalism. In this chapter, we will provide an overview of some of the available tools and technologies that journalists can use to incorporate AI into their work.
 

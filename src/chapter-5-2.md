@@ -1,4 +1,3 @@
-# AI-Driven Social Media Posting and Engagement
 
 News organizations can leverage AI-powered tools to improve their social media presence, drive engagement, and increase the reach of their content. In this chapter, we will explore how AI can be used for social media posting and engagement to improve distribution and engagement.
 
